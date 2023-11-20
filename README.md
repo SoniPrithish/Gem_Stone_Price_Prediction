@@ -11,3 +11,7 @@ conda activate hpenv
 ```
 pip install -r requirements.txt
 ```
+#Run
+```
+python app.py
+```
